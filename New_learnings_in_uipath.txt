@@ -1,0 +1,87 @@
+https://www.youtube.com/c/UiPathExpoHub/playlists
+
+https://ankurwarikoo.com/the-complete-guide-to-starting-up/?gclid=CjwKCAjw7diEBhB-EiwAskVi14WTmP549tY-PDhN9A40_83b5w3MY6KTFm1SavT3gVmRzzroJdZ8_xoC82kQAvD_BwE
+
+https://www.youtube.com/watch?v=nVkrU9HFmUI&list=PLhTE7-JU1rhb7FSJJLIRBw_INaBJuPLhl&index=5
+
+
+https://www.google.com/search?sxsrf=ALeKk02pKXIO9YBIWMismd5Wry-GSsRfHQ%3A1614478662625&ei=Rv06YJzWJcu2rQG9-KHIAg&q=how+to+use+invoke+code+in+uipath+video&oq=how+to+use+invoke+code+in+uipath+video&gs_lcp=Cgdnd3Mtd2l6EAMyBQghEKABOgcIABBHELADOgYIABAWEB46BQgAEIYDOggIIRAWEB0QHjoHCCEQChCgAVDnQFj9TWDHUGgBcAJ4AIABzgKIAfsLkgEHMC40LjEuMpgBAKABAaoBB2d3cy13aXrIAQjAAQE&sclient=gws-wiz&ved=0ahUKEwickbvZwYvvAhVLWysKHT18CCkQ4dUDCA0&uact=5#kpvalbx=_Uv06YOvTHpn_9QPGiB810  --> invoke code
+https://www.youtube.com/watch?v=dJqaNSEmAEg -->  invoke VBA  methods...
+https://www.youtube.com/watch?v=mGU6xxsqVWA  --> invoke macros --> 
+https://www.youtube.com/watch?v=pVbgG6xHbiA  --> inject JsScript....
+https://www.youtube.com/watch?v=has8rq8DwxQ  --> bottom of JavaScript Executor...
+https://www.youtube.com/watch?v=rCaRFyQE3UA  --> custome activity invoking...
+https://www.youtube.com/watch?v=U266tGOSS1E  --> browser activities...
+https://www.youtube.com/watch?v=HI3u_Qyiv7U  --> citrix automation automation
+
+https://rpalearners.com/how-to-set-color-or-get-color-from-a-cell-in-excel-uipath/
+
+https://www.youtube.com/watch?v=cLZNdAv2hPI  --> End to end operations...
+
+https://www.youtube.com/watch?v=1CEz7PnZavw  --. throw and rethrow activites
+
+https://www.youtube.com/watch?v=dclauTmVDnQ&list=PLG3LgE4atuv8i18zQOf1o35D8U-GS3i0W&index=2  --> test suite... explanation...
+
+http://schemas.xmlsoap.org/soap/encoding/
+
+https://www.youtube.com/watch?v=mMlgvJ8nY64  --> chat bot
+
+https://www.youtube.com/watch?v=18vTyQVn9k0  --> test manager uipath
+ 
+https://www.youtube.com/watch?v=35q0F2QHslg  --> selenium vs. uipath
+
+https://youtu.be/gYtqB82Kr4A  --> interraction / robot error issue videos...
+https://youtu.be/_1PN9DYgfjg
+
+
+https://www.youtube.com/channel/UCqxVW50cODphM0YHvA34NjQ  --> Expo HUb
+
+https://www.youtube.com/watch?v=j0YDb3Bgg5o--> classic folder vs... modern folder
+https://www.youtube.com/watch?v=kPru30mH080  assigning roles to modern folders
+
+https://www.youtube.com/watch?v=G7Yu5cW9LiY  --> Machine template...
+https://www.youtube.com/watch?v=tdkj9X_4zeY  --> mltiple machine running
+https://www.youtube.com/watch?v=6PNvWHzwZ8Q --> document understanding...
+
+https://www.youtube.com/watch?v=BWTNosv8STY   --> very important video... to be updted..
+
+
+--------------------------------------
+https://www.youtube.com/watch?v=SJskzBrwqeo  --> integrate GIT version control system
+https://www.youtube.com/watch?v=CCL04YGG3eg  --> clone repository
+https://www.youtube.com/watch?v=x0ox7Rnvl_w  --> create and manage and switch branches
+https://www.youtube.com/watch?v=WxzePGPWuek  --> commit/ push     commit & push
+
+https://www.youtube.com/watch?v=DgTTsuFbPaQ&list=RDCMUCeXwbw8GolO8Xxg-tyVQsLg&index=4  -- unattended robots with modern folders
+
+https://www.youtube.com/watch?v=WA3iVn8vFYg -> building RPA operating team  --> mukesh kala
+
+
+Computer vision:
+https://www.youtube.com/watch?v=DRjvbtsdbdM
+UIDEMO applicaiton link: https://forum.uipath.com/t/uidemo-exe-file/91456/4
+userName : admin 
+password is password
+https://cv.uipath.com/
+
+
+https://chercher.tech/uipath/word-automation-rpa-uipath
+https://www.youtube.com/watch?v=rkdwP1G6Zmo  uipath word document automations..
+
+https://www.youtube.com/watch?v=9FWc7EvlfjQ
+
+Git hub integration in selenium;
+https://www.youtube.com/watch?v=gT9qnZi3f74&list=RDCMUCcTII5pbZYkU4fgFtb4uesg&index=1
+
+
+
+
+
+
+
+
+
+
+
+
+
